@@ -19,3 +19,5 @@ More file.
 A few more things...
 
 This is a document.
+
+Michael Hobbs
